@@ -122,6 +122,6 @@ Gross Margin = Gross Profit ÷ Revenue
 **Harshit Saini**
 B.Tech CSE student | Aspiring Data Analyst
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · 📧 your-email@example.com
+🔗 [LinkedIn](www.linkedin.com/in/harshit-saini-58379a2a1) · 💻 [GitHub](https://github.com/Syznx) · 📧 sainiharshit005@gmail.com
 
 ⭐ If you found this project useful, consider giving it a star!
